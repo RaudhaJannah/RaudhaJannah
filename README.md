@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @RaudhaJannah
 - 👀 I’m interested in bahasa pemrograman, pembuatan web, pembuatan game
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 🌱 I’m currently learning at the university majoring in informatics engineering
+- 💞️ I’m looking to collaborate on web developer, and IT software
+- 📫 How to reach me raudhatuljannah2542@gmail.com or DM instagram @xtrjnn_
 
 <!---
 RaudhaJannah/RaudhaJannah is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
