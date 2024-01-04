@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @RaudhaJannah
+- 👋 Hi, I’m @RaudhatulJannah
 - 👀 I’m interested in bahasa pemrograman, pembuatan web, pembuatan game
 - 🌱 I’m currently learning at the university majoring in informatics engineering
 - 💞️ I’m looking to collaborate on web developer, and IT software
